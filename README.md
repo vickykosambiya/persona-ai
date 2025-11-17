@@ -1,2 +1,2 @@
 # persona-ai
-MAke user persona based on company details
+Make user persona based on company details
