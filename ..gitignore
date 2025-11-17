@@ -1,0 +1,55 @@
+# -------------------------
+# PYTHON ENV + DEPENDENCIES
+# -------------------------
+
+venv/
+.env
+.env.*
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# -------------------------
+# STREAMLIT
+# -------------------------
+.streamlit/
+
+# -------------------------
+# LOGGING / OUTPUT
+# -------------------------
+*.log
+*.json
+*.txt
+output/
+data/
+cache/
+tmp/
+
+# -------------------------
+# OS / EDITOR FILES
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# -------------------------
+# BUILD / PACKAGING
+# -------------------------
+dist/
+build/
+*.egg-info/
+
+# -------------------------
+# CHECKPOINTS
+# -------------------------
+.ipynb_checkpoints/
